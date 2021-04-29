@@ -9,203 +9,199 @@
     },
     "nodes": [
         {
-            "shape": "Mdiamond",
-            "id": "CS61C"
-        },
-        {
             "id": "Lecture 1", "group": "Lecture"
         },
         {
-            "id": "Lab 1"
+            "id": "Lab 1", "group": "Lab"
         },
         {
-            "id": "Lecture 2"
+            "id": "Lecture 2", "group": "Lecture"
         },
         {
-            "id": "Lecture 3"
+            "id": "Lecture 3", "group": "Lecture"
         },
         {
-            "id": "Lecture 4"
+            "id": "Lecture 4", "group": "Lecture"
         },
         {
-            "id": "Lab 2"
+            "id": "Lab 2", "group": "Lab"
         },
         {
-            "id": "Lecture 6"
+            "id": "Lecture 6", "group": "Lecture"
         },
         {
-            "id": "Lab 3"
+            "id": "Lab 3", "group": "Lab"
         },
         {
-            "id": "Lecture 7"
+            "id": "Lecture 7", "group": "Lecture"
         },
         {
-            "id": "Lab 4"
+            "id": "Lab 4", "group": "Lab"
         },
         {
-            "id": "Lecture 10"
+            "id": "Lecture 10", "group": "Lecture"
         },
         {
-            "id": "Lab 5"
+            "id": "Lab 5", "group": "Lab"
         },
         {
-            "id": "Lecture 11"
+            "id": "Lecture 11", "group": "Lecture"
         },
         {
-            "id": "Lecture 12"
+            "id": "Lecture 12", "group": "Lecture"
         },
         {
-            "id": "Lab 6"
+            "id": "Lab 6", "group": "Lab"
         },
         {
-            "id": "Lecture 13"
+            "id": "Lecture 13", "group": "Lecture"
         },
         {
-            "id": "Lecture 14"
+            "id": "Lecture 14", "group": "Lecture"
         },
         {
-            "id": "Lecture 15"
+            "id": "Lecture 15", "group": "Lecture"
         },
         {
-            "id": "Lab 7"
+            "id": "Lab 7", "group": "Lab"
         },
         {
-            "id": "Lecture 16"
+            "id": "Lecture 16", "group": "Lecture"
         },
         {
-            "id": "Lecture 17"
+            "id": "Lecture 17", "group": "Lecture"
         },
         {
-            "id": "Lecture 18"
+            "id": "Lecture 18", "group": "Lecture"
         },
         {
-            "id": "Lab 8"
+            "id": "Lab 8", "group": "Lab"
         },
         {
-            "id": "Lecture 19"
+            "id": "Lecture 19", "group": "Lecture"
         },
         {
-            "id": "Lecture 20"
+            "id": "Lecture 20", "group": "Lecture"
         },
         {
-            "id": "Lecture 21"
+            "id": "Lecture 21", "group": "Lecture"
         },
         {
-            "id": "Lab 9"
+            "id": "Lab 9", "group": "Lab"
         },
         {
-            "id": "Lecture 22"
+            "id": "Lecture 22", "group": "Lecture"
         },
         {
-            "id": "Lab 10"
+            "id": "Lab 10", "group": "Lab"
         },
         {
-            "id": "Lecture 23"
+            "id": "Lecture 23", "group": "Lecture"
         },
         {
-            "id": "Homework 1"
+            "id": "Homework 1", "group": "Homework"
         },
         {
-            "id": "Homework 2"
+            "id": "Homework 2", "group": "Homework"
         },
         {
-            "id": "Lecture 5"
+            "id": "Lecture 5", "group": "Lecture"
         },
         {
-            "id": "Homework 3"
+            "id": "Homework 3", "group": "Homework"
         },
         {
-            "id": "Homework 4"
+            "id": "Homework 4", "group": "Homework"
         },
         {
-            "id": "Lecture 8"
+            "id": "Lecture 8", "group": "Lecture"
         },
         {
-            "id": "Lecture 9"
+            "id": "Lecture 9", "group": "Lecture"
         },
         {
-            "id": "Homework 5"
+            "id": "Homework 5", "group": "Homework"
         },
         {
-            "id": "Homework 6"
+            "id": "Homework 6", "group": "Homework"
         },
         {
-            "id": "Homework 7"
+            "id": "Homework 7", "group": "Homework"
         },
         {
-            "id": "Homework 8"
+            "id": "Homework 8", "group": "Homework"
         },
         {
-            "id": "Homework 9"
+            "id": "Homework 9", "group": "Homework"
         },
         {
-            "id": "Homework 10"
+            "id": "Homework 10", "group": "Homework"
         },
         {
-            "id": "Lecture 24"
+            "id": "Lecture 24", "group": "Lecture"
         },
         {
-            "id": "Homework 11"
+            "id": "Homework 11", "group": "Homework"
         },
         {
-            "id": "Discussion 1"
+            "id": "Discussion 1", "group": "Discussion"
         },
         {
-            "id": "Discussion 2"
+            "id": "Discussion 2", "group": "Discussion"
         },
         {
-            "id": "Discussion 3"
+            "id": "Discussion 3", "group": "Discussion"
         },
         {
-            "id": "Discussion 4"
+            "id": "Discussion 4", "group": "Discussion"
         },
         {
-            "id": "Discussion 5"
+            "id": "Discussion 5", "group": "Discussion"
         },
         {
-            "id": "Discussion 6"
+            "id": "Discussion 6", "group": "Discussion"
         },
         {
-            "id": "Discussion 7"
+            "id": "Discussion 7", "group": "Discussion"
         },
         {
-            "id": "Discussion 8"
+            "id": "Discussion 8", "group": "Discussion"
         },
         {
-            "id": "Discussion 9"
+            "id": "Discussion 9", "group": "Discussion"
         },
         {
-            "id": "Discussion 10"
+            "id": "Discussion 10", "group": "Discussion"
         },
         {
-            "id": "Discussion 11"
+            "id": "Discussion 11", "group": "Discussion"
         },
         {
-            "id": "Discussion 12"
+            "id": "Discussion 12", "group": "Discussion"
         },
         {
-            "id": "Discussion 13"
+            "id": "Discussion 13", "group": "Discussion"
         },
         {
-            "id": "Discussion 14"
+            "id": "Discussion 14", "group": "Discussion"
         },
         {
-            "id": "Lab 0"
+            "id": "Lab 0", "group": "Lab"
         },
         {
-            "id": "Project 1"
+            "id": "Project 1", "group": "Projects"
         },
         {
-            "id": "Project 2A"
+            "id": "Project 2A", "group": "Projects"
         },
         {
-            "id": "Project 3A"
+            "id": "Project 3A", "group": "Projects"
         },
         {
-            "id": "Project 3B"
+            "id": "Project 3B", "group": "Projects"
         },
         {
-            "id": "Project 4"
+            "id": "Project 4", "group": "Projects"
         }
     ],
     "links": [
