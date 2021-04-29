@@ -206,11 +206,6 @@
     ],
     "links": [
         {
-            "source": "CS61C",
-            "target": "Lecture 1",
-            "key": 0
-        },
-        {
             "source": "Lecture 1",
             "target": "Lab 1",
             "key": 0
