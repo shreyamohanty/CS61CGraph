@@ -13,7 +13,7 @@
             "id": "CS61C"
         },
         {
-            "id": "Lecture 1"
+            "id": "Lecture 1", "group": "Lecture"
         },
         {
             "id": "Lab 1"
