@@ -1,0 +1,728 @@
+{
+    "directed": true,
+    "multigraph": true,
+    "graph": {
+        "name": "G",
+        "graph": {
+            "splines": "\"FALSE\""
+        }
+    },
+    "nodes": [
+        {
+            "shape": "Mdiamond",
+            "id": "CS61C"
+        },
+        {
+            "id": "Lecture 1"
+        },
+        {
+            "id": "Lab 1"
+        },
+        {
+            "id": "Lecture 2"
+        },
+        {
+            "id": "Lecture 3"
+        },
+        {
+            "id": "Lecture 4"
+        },
+        {
+            "id": "Lab 2"
+        },
+        {
+            "id": "Lecture 6"
+        },
+        {
+            "id": "Lab 3"
+        },
+        {
+            "id": "Lecture 7"
+        },
+        {
+            "id": "Lab 4"
+        },
+        {
+            "id": "Lecture 10"
+        },
+        {
+            "id": "Lab 5"
+        },
+        {
+            "id": "Lecture 11"
+        },
+        {
+            "id": "Lecture 12"
+        },
+        {
+            "id": "Lab 6"
+        },
+        {
+            "id": "Lecture 13"
+        },
+        {
+            "id": "Lecture 14"
+        },
+        {
+            "id": "Lecture 15"
+        },
+        {
+            "id": "Lab 7"
+        },
+        {
+            "id": "Lecture 16"
+        },
+        {
+            "id": "Lecture 17"
+        },
+        {
+            "id": "Lecture 18"
+        },
+        {
+            "id": "Lab 8"
+        },
+        {
+            "id": "Lecture 19"
+        },
+        {
+            "id": "Lecture 20"
+        },
+        {
+            "id": "Lecture 21"
+        },
+        {
+            "id": "Lab 9"
+        },
+        {
+            "id": "Lecture 22"
+        },
+        {
+            "id": "Lab 10"
+        },
+        {
+            "id": "Lecture 23"
+        },
+        {
+            "id": "Homework 1"
+        },
+        {
+            "id": "Homework 2"
+        },
+        {
+            "id": "Lecture 5"
+        },
+        {
+            "id": "Homework 3"
+        },
+        {
+            "id": "Homework 4"
+        },
+        {
+            "id": "Lecture 8"
+        },
+        {
+            "id": "Lecture 9"
+        },
+        {
+            "id": "Homework 5"
+        },
+        {
+            "id": "Homework 6"
+        },
+        {
+            "id": "Homework 7"
+        },
+        {
+            "id": "Homework 8"
+        },
+        {
+            "id": "Homework 9"
+        },
+        {
+            "id": "Homework 10"
+        },
+        {
+            "id": "Lecture 24"
+        },
+        {
+            "id": "Homework 11"
+        },
+        {
+            "id": "Discussion 1"
+        },
+        {
+            "id": "Discussion 2"
+        },
+        {
+            "id": "Discussion 3"
+        },
+        {
+            "id": "Discussion 4"
+        },
+        {
+            "id": "Discussion 5"
+        },
+        {
+            "id": "Discussion 6"
+        },
+        {
+            "id": "Discussion 7"
+        },
+        {
+            "id": "Discussion 8"
+        },
+        {
+            "id": "Discussion 9"
+        },
+        {
+            "id": "Discussion 10"
+        },
+        {
+            "id": "Discussion 11"
+        },
+        {
+            "id": "Discussion 12"
+        },
+        {
+            "id": "Discussion 13"
+        },
+        {
+            "id": "Discussion 14"
+        },
+        {
+            "id": "Lab 0"
+        },
+        {
+            "id": "Project 1"
+        },
+        {
+            "id": "Project 2A"
+        },
+        {
+            "id": "Project 3A"
+        },
+        {
+            "id": "Project 3B"
+        },
+        {
+            "id": "Project 4"
+        }
+    ],
+    "links": [
+        {
+            "source": "CS61C",
+            "target": "Lecture 1",
+            "key": 0
+        },
+        {
+            "source": "Lecture 1",
+            "target": "Lab 1",
+            "key": 0
+        },
+        {
+            "source": "Lecture 1",
+            "target": "Homework 1",
+            "key": 0
+        },
+        {
+            "source": "Lecture 1",
+            "target": "Discussion 1",
+            "key": 0
+        },
+        {
+            "source": "Lab 1",
+            "target": "Project 1",
+            "key": 0
+        },
+        {
+            "source": "Lecture 2",
+            "target": "Lab 1",
+            "key": 0
+        },
+        {
+            "source": "Lecture 2",
+            "target": "Lab 2",
+            "key": 0
+        },
+        {
+            "source": "Lecture 2",
+            "target": "Homework 2",
+            "key": 0
+        },
+        {
+            "source": "Lecture 2",
+            "target": "Discussion 2",
+            "key": 0
+        },
+        {
+            "source": "Lecture 3",
+            "target": "Lab 1",
+            "key": 0
+        },
+        {
+            "source": "Lecture 3",
+            "target": "Lab 2",
+            "key": 0
+        },
+        {
+            "source": "Lecture 3",
+            "target": "Homework 2",
+            "key": 0
+        },
+        {
+            "source": "Lecture 3",
+            "target": "Discussion 2",
+            "key": 0
+        },
+        {
+            "source": "Lecture 4",
+            "target": "Lab 1",
+            "key": 0
+        },
+        {
+            "source": "Lecture 4",
+            "target": "Lab 2",
+            "key": 0
+        },
+        {
+            "source": "Lecture 4",
+            "target": "Homework 2",
+            "key": 0
+        },
+        {
+            "source": "Lecture 4",
+            "target": "Discussion 2",
+            "key": 0
+        },
+        {
+            "source": "Lab 2",
+            "target": "Project 1",
+            "key": 0
+        },
+        {
+            "source": "Lecture 6",
+            "target": "Lab 3",
+            "key": 0
+        },
+        {
+            "source": "Lecture 6",
+            "target": "Lab 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 6",
+            "target": "Homework 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 6",
+            "target": "Discussion 4",
+            "key": 0
+        },
+        {
+            "source": "Lab 3",
+            "target": "Project 2A",
+            "key": 0
+        },
+        {
+            "source": "Lecture 7",
+            "target": "Lab 3",
+            "key": 0
+        },
+        {
+            "source": "Lecture 7",
+            "target": "Lab 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 7",
+            "target": "Homework 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 7",
+            "target": "Discussion 4",
+            "key": 0
+        },
+        {
+            "source": "Lab 4",
+            "target": "Project 2A",
+            "key": 0
+        },
+        {
+            "source": "Lecture 10",
+            "target": "Lab 5",
+            "key": 0
+        },
+        {
+            "source": "Lecture 10",
+            "target": "Homework 5",
+            "key": 0
+        },
+        {
+            "source": "Lecture 10",
+            "target": "Discussion 6",
+            "key": 0
+        },
+        {
+            "source": "Lab 5",
+            "target": "Project 3A",
+            "key": 0
+        },
+        {
+            "source": "Lecture 11",
+            "target": "Lab 5",
+            "key": 0
+        },
+        {
+            "source": "Lecture 11",
+            "target": "Homework 5",
+            "key": 0
+        },
+        {
+            "source": "Lecture 11",
+            "target": "Discussion 6",
+            "key": 0
+        },
+        {
+            "source": "Lecture 12",
+            "target": "Lab 6",
+            "key": 0
+        },
+        {
+            "source": "Lecture 12",
+            "target": "Homework 6",
+            "key": 0
+        },
+        {
+            "source": "Lecture 12",
+            "target": "Discussion 7",
+            "key": 0
+        },
+        {
+            "source": "Lab 6",
+            "target": "Project 3A",
+            "key": 0
+        },
+        {
+            "source": "Lab 6",
+            "target": "Project 3B",
+            "key": 0
+        },
+        {
+            "source": "Lecture 13",
+            "target": "Lab 6",
+            "key": 0
+        },
+        {
+            "source": "Lecture 13",
+            "target": "Homework 6",
+            "key": 0
+        },
+        {
+            "source": "Lecture 13",
+            "target": "Discussion 7",
+            "key": 0
+        },
+        {
+            "source": "Lecture 14",
+            "target": "Lab 6",
+            "key": 0
+        },
+        {
+            "source": "Lecture 14",
+            "target": "Homework 6",
+            "key": 0
+        },
+        {
+            "source": "Lecture 14",
+            "target": "Discussion 8",
+            "key": 0
+        },
+        {
+            "source": "Lecture 15",
+            "target": "Lab 7",
+            "key": 0
+        },
+        {
+            "source": "Lecture 15",
+            "target": "Homework 7",
+            "key": 0
+        },
+        {
+            "source": "Lecture 15",
+            "target": "Discussion 9",
+            "key": 0
+        },
+        {
+            "source": "Lab 7",
+            "target": "Project 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 16",
+            "target": "Lab 7",
+            "key": 0
+        },
+        {
+            "source": "Lecture 16",
+            "target": "Homework 7",
+            "key": 0
+        },
+        {
+            "source": "Lecture 16",
+            "target": "Discussion 9",
+            "key": 0
+        },
+        {
+            "source": "Lecture 17",
+            "target": "Lab 7",
+            "key": 0
+        },
+        {
+            "source": "Lecture 17",
+            "target": "Homework 7",
+            "key": 0
+        },
+        {
+            "source": "Lecture 17",
+            "target": "Discussion 9",
+            "key": 0
+        },
+        {
+            "source": "Lecture 18",
+            "target": "Lab 8",
+            "key": 0
+        },
+        {
+            "source": "Lecture 18",
+            "target": "Homework 8",
+            "key": 0
+        },
+        {
+            "source": "Lecture 18",
+            "target": "Discussion 10",
+            "key": 0
+        },
+        {
+            "source": "Lab 8",
+            "target": "Project 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 19",
+            "target": "Lab 8",
+            "key": 0
+        },
+        {
+            "source": "Lecture 19",
+            "target": "Homework 9",
+            "key": 0
+        },
+        {
+            "source": "Lecture 19",
+            "target": "Discussion 10",
+            "key": 0
+        },
+        {
+            "source": "Lecture 20",
+            "target": "Lab 8",
+            "key": 0
+        },
+        {
+            "source": "Lecture 20",
+            "target": "Homework 8",
+            "key": 0
+        },
+        {
+            "source": "Lecture 20",
+            "target": "Discussion 11",
+            "key": 0
+        },
+        {
+            "source": "Lecture 21",
+            "target": "Lab 9",
+            "key": 0
+        },
+        {
+            "source": "Lecture 21",
+            "target": "Homework 10",
+            "key": 0
+        },
+        {
+            "source": "Lecture 21",
+            "target": "Discussion 12",
+            "key": 0
+        },
+        {
+            "source": "Lab 9",
+            "target": "Project 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 22",
+            "target": "Lab 10",
+            "key": 0
+        },
+        {
+            "source": "Lecture 22",
+            "target": "Homework 10",
+            "key": 0
+        },
+        {
+            "source": "Lecture 22",
+            "target": "Discussion 12",
+            "key": 0
+        },
+        {
+            "source": "Lecture 22",
+            "target": "Discussion 13",
+            "key": 0
+        },
+        {
+            "source": "Lecture 23",
+            "target": "Lab 10",
+            "key": 0
+        },
+        {
+            "source": "Lecture 23",
+            "target": "Homework 10",
+            "key": 0
+        },
+        {
+            "source": "Lecture 23",
+            "target": "Discussion 13",
+            "key": 0
+        },
+        {
+            "source": "Lecture 5",
+            "target": "Homework 3",
+            "key": 0
+        },
+        {
+            "source": "Lecture 5",
+            "target": "Discussion 3",
+            "key": 0
+        },
+        {
+            "source": "Lecture 8",
+            "target": "Homework 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 8",
+            "target": "Discussion 5",
+            "key": 0
+        },
+        {
+            "source": "Lecture 9",
+            "target": "Homework 4",
+            "key": 0
+        },
+        {
+            "source": "Lecture 9",
+            "target": "Discussion 5",
+            "key": 0
+        },
+        {
+            "source": "Lecture 24",
+            "target": "Homework 10",
+            "key": 0
+        },
+        {
+            "source": "Lecture 24",
+            "target": "Homework 11",
+            "key": 0
+        },
+        {
+            "source": "Lecture 24",
+            "target": "Discussion 14",
+            "key": 0
+        },
+        {
+            "source": "Discussion 1",
+            "target": "Homework 1",
+            "key": 0
+        },
+        {
+            "source": "Discussion 2",
+            "target": "Homework 2",
+            "key": 0
+        },
+        {
+            "source": "Discussion 3",
+            "target": "Homework 3",
+            "key": 0
+        },
+        {
+            "source": "Discussion 4",
+            "target": "Homework 4",
+            "key": 0
+        },
+        {
+            "source": "Discussion 5",
+            "target": "Homework 4",
+            "key": 0
+        },
+        {
+            "source": "Discussion 6",
+            "target": "Homework 5",
+            "key": 0
+        },
+        {
+            "source": "Discussion 7",
+            "target": "Homework 6",
+            "key": 0
+        },
+        {
+            "source": "Discussion 8",
+            "target": "Homework 6",
+            "key": 0
+        },
+        {
+            "source": "Discussion 9",
+            "target": "Homework 7",
+            "key": 0
+        },
+        {
+            "source": "Discussion 10",
+            "target": "Homework 8",
+            "key": 0
+        },
+        {
+            "source": "Discussion 10",
+            "target": "Homework 9",
+            "key": 0
+        },
+        {
+            "source": "Discussion 11",
+            "target": "Homework 8",
+            "key": 0
+        },
+        {
+            "source": "Discussion 12",
+            "target": "Homework 10",
+            "key": 0
+        },
+        {
+            "source": "Discussion 13",
+            "target": "Homework 10",
+            "key": 0
+        },
+        {
+            "source": "Discussion 14",
+            "target": "Homework 10",
+            "key": 0
+        },
+        {
+            "source": "Discussion 14",
+            "target": "Homework 11",
+            "key": 0
+        },
+        {
+            "source": "Lab 0",
+            "target": "Project 1",
+            "key": 0
+        }
+    ]
+}
